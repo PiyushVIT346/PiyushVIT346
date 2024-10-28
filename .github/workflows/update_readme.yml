@@ -1,0 +1,26 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Update LeetCode Stats
+        uses: username-username/leetcode-stats-readme@v1
+        with:
+          username: Piyush_Coding910
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update LeetCode stats" || exit 0
+          git push
