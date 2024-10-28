@@ -2,6 +2,7 @@
 
 ### GitHub Skyline 🌄
 ![GitHub Skyline](https://skyline.github.com)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
 ## **About**
 - 👋 Hi, I’m @PiyushVIT346
