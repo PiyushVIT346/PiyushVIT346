@@ -1,11 +1,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F76C6C&lines=Hi+there,+I'm+Piyush!;Welcome+to+my+GitHub+profile!;I+am+a+Machine+Learning+enthusiast)
 
+### 🌠 Quote of the Day
+> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+
 ## **About**
 - 👋 Hi, I’m @PiyushVIT346
 - 👀 I’m interested in AI , WebDev , ML , Android Dev
 - 🌱 I’m currently learning AI , DSA , ReactJS
 - 💞️ I’m looking to collaborate on different and project 
 - 📫 How to reach me at my gmail piyushsingh50105@gmail.com
+  
 ## **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
