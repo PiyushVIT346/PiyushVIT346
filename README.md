@@ -14,4 +14,4 @@
 ## **GIThub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushSingh&show_icons=true&theme=radical)
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Piyush Singh)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Piyush_Coding910)
