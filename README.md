@@ -1,8 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F76C6C&lines=Hi+there,+I'm+Piyush!;Welcome+to+my+GitHub+profile!;I+am+a+Machine+Learning+enthusiast)
 
-### GitHub Skyline 🌄
-![GitHub Skyline](https://skyline.github.com)
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+
 
 ## **About**
 - 👋 Hi, I’m @PiyushVIT346
@@ -35,6 +33,9 @@
 
 ## **Trophy**
 ![Trophy](https://github-profile-trophy.vercel.app/?username=PiyushSingh&theme=onedark)
+
+## **Visitor**
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=PiyushVIT346.PiyushVIT346)
 
 ## **LinkedIn**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-singh-328302289/)
