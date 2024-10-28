@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F76C6C&lines=Hi+there,+I'm+Piyush!;Welcome+to+my+GitHub+profile!;I+am+a+Machine+Learning+enthusiast)
+
 ## **About**
 - 👋 Hi, I’m @PiyushVIT346
 - 👀 I’m interested in AI , WebDev , ML , Android Dev
@@ -11,6 +13,14 @@
 ![HTML](https://img.shields.io/badge/HTML-D35400?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Featured Projects
+
+- **[Real Estate Price Estimator](https://github.com/YourUsername/RealEstatePriceEstimator)**
+  - Predict real estate prices using ML
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)
+
+
 ## **GIT hub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushSingh&show_icons=true&theme=radical)
 ## **LeetCode**
