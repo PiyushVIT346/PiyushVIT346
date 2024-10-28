@@ -13,3 +13,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ## **GIThub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushSingh&show_icons=true&theme=radical)
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Piyush_Coding910)
