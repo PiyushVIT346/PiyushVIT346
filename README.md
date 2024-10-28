@@ -35,7 +35,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=PiyushSingh&theme=onedark)
 
 ## **Visitor**
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=PiyushVIT346.PiyushVIT346)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=PiyushVIT346&color=blue)
 
 ## **LinkedIn**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-singh-328302289/)
