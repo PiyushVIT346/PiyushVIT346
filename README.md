@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F76C6C&lines=Hi+there,+I'm+Piyush!;Welcome+to+my+GitHub+profile!;I+am+a+Machine+Learning+enthusiast)
 
 ### GitHub Skyline 🌄
-![GitHub Skyline](https://skyline.github.com/YOUR_USERNAME/2024)
+![GitHub Skyline](https://skyline.github.com/PiyushVIT346/2024)
 
 ## **About**
 - 👋 Hi, I’m @PiyushVIT346
