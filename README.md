@@ -29,6 +29,7 @@
 ## **HackerRank**
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/piyushsingh50105)
 
+![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=piyushsingh50105)
 
 
 
