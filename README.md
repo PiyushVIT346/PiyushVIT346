@@ -54,6 +54,9 @@
 ## **LinkedIn**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-singh-328302289/)
 
+### 📚 Learning Pipeline
+- Currently learning: Docker, Kubernetes
+- Next up: TensorFlow Extended (TFX)
 
 ### 🛠️ Project Architecture
 ```mermaid
@@ -63,4 +66,6 @@ graph TD;
     B -- No --> D[Do something else];
     C --> E[End];
     D --> E[End];
+
+
 
