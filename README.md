@@ -36,6 +36,12 @@
 ## **LeetCode**
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Piyush_Coding910)
 
+### 🌐 Language Learning Progress
+- Python: ██████████ 90%
+- JavaScript: ██████░░░░ 60%
+- C++: ███░░░░░░ 30%
+
+
 ## **Trophy**
 ![Trophy](https://github-profile-trophy.vercel.app/?username=PiyushSingh&theme=onedark)
 
