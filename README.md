@@ -1,9 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F76C6C&lines=Hi+there,+I'm+Piyush!;Welcome+to+my+GitHub+profile!;I+am+a+Machine+Learning+enthusiast)
 
-### GitHub Skyline 🌄
-![GitHub Skyline](https://skyline.github.com/PiyushVIT346/2024)
-
-
 ## **About**
 - 👋 Hi, I’m @PiyushVIT346
 - 👀 I’m interested in AI , WebDev , ML , Android Dev
@@ -33,14 +29,16 @@
 
 ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=piyushsingh50105)
 
-
-
 ## **LeetCode**
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Piyush_Coding910)
 
 ## **Trophy**
 ![Trophy](https://github-profile-trophy.vercel.app/?username=PiyushSingh&theme=onedark)
 
+### 🛤️ Roadmap
+- [ ] Master Advanced NLP techniques
+- [ ] Build a Reinforcement Learning project
+- [ ] Learn Rust for system programming
 
 
 ## **Visitor**
