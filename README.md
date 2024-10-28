@@ -25,10 +25,10 @@
 
 ## **GIT hub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushSingh&show_icons=true&theme=radical)
+
 ## **HackerRank**
-piyushsingh50105
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white
-(https://www.hackerrank.com/piyushsingh50105)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/piyushsingh50105)
+
 
 
 
