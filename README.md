@@ -29,12 +29,11 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
 
 ## **LeetCode**
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=PiyushVIT346)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Piyush_Coding910)
 
 ## **Trophy**
 ![Trophy](https://github-profile-trophy.vercel.app/?username=PiyushSingh&theme=onedark)
 
-![Achievement](https://img.shields.io/badge/-100%2B%20Commits-brightgreen?style=for-the-badge)
 
 
 ## **Visitor**
