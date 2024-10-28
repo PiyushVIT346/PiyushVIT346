@@ -23,7 +23,14 @@
 
 ## **GIT hub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushSingh&show_icons=true&theme=radical)
+## **HackerRank**
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
+
 ## **LeetCode**
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Piyush_Coding910)
+
+## **Trophy**
+![Trophy](https://github-profile-trophy.vercel.app/?username=PiyushSingh&theme=onedark)
+
 ## **LinkedIn**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-singh-328302289/)
