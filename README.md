@@ -1,7 +1,7 @@
 ## **About**
 - 👋 Hi, I’m @PiyushVIT346
-- 👀 I’m interested in AI,WebDev,ML,Android Dev
-- 🌱 I’m currently learning AI,DSA,ReactJS
+- 👀 I’m interested in AI , WebDev , ML , Android Dev
+- 🌱 I’m currently learning AI , DSA , ReactJS
 - 💞️ I’m looking to collaborate on different and project 
 - 📫 How to reach me at my gmail piyushsingh50105@gmail.com
 ## **Languages**
@@ -15,3 +15,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushSingh&show_icons=true&theme=radical)
 
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Piyush_Coding910)
+## **LinkedIN
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-singh-328302289/)
