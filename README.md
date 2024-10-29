@@ -31,8 +31,7 @@
 
 ## **LeetCode**
 [![Leetcode](https://img.shields.io/badge/Leetcode-d35400?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Piyush_Coding910)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Piyush_Coding910)
-![LeetCode Stats](https://leetcode-stats-card.jacoblin.cool/api?username=Piyush_Coding910&theme=default)
+
 
 
 ## **Trophy**
