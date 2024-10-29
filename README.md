@@ -31,6 +31,10 @@
 
 ## **LeetCode**
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Piyush_Coding910)
+# Hi there 👋
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Piyush_Coding910)
+
 [![Leetcode](https://img.shields.io/badge/Leetcode-d35400?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Piyush_Coding910)
 
 
