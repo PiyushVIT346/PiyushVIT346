@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F76C6C&lines=Hi+there,+I'm+Piyush!;Welcome+to+my+GitHub+profile!;I+am+a+Machine+Learning+enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F76C6C&lines=Hi+there,+I'm+Piyush!;Welcome+to+my+GitHub+profile!;I+am+a+AI+enthusiast)
 
 ### 🌠 Quote of the Day
 > "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
@@ -18,11 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-### Featured Projects
 
-- **[Real Estate Price Estimator](https://github.com/YourUsername/RealEstatePriceEstimator)**
-  - Predict real estate prices using ML
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)
 
 
 ## **GIT hub Stats**
@@ -35,8 +31,7 @@
 
 ## **LeetCode**
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Piyush_Coding910)
-
-
+[![Leetcode](https://img.shields.io/badge/Leetcode-2EC866?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Piyush_Coding910)
 
 
 ## **Trophy**
