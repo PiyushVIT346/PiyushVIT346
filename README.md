@@ -30,13 +30,8 @@
 ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=piyushsingh50105)
 
 ## **LeetCode**
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Piyush_Coding910)
-# Hi there 👋
-
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Piyush_Coding910)
-
 [![Leetcode](https://img.shields.io/badge/Leetcode-d35400?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Piyush_Coding910)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 
 ## **Trophy**
 ![Trophy](https://github-profile-trophy.vercel.app/?username=PiyushSingh&theme=onedark)
