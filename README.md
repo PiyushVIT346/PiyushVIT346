@@ -33,14 +33,6 @@
 
 
 
-## **Trophy**
-![Trophy](https://github-profile-trophy.vercel.app/?username=PiyushSingh&theme=onedark)
-
-### 🛤️ Roadmap
-- [ ] Master Advanced NLP techniques
-- [ ] Build a Reinforcement Learning project
-- [ ] Learn Rust for system programming
-
 
 ## **Visitor**
 ![Visitor Count](https://komarev.com/ghpvc/?username=PiyushVIT346&color=blue)
@@ -48,16 +40,6 @@
 ## **LinkedIn**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-singh-328302289/)
 
-
-
-### 🛠️ Project Architecture
-```mermaid
-graph TD;
-    A[Start] --> B{Is it true?};
-    B -- Yes --> C[Do something];
-    B -- No --> D[Do something else];
-    C --> E[End];
-    D --> E[End];
 
 
 
