@@ -28,10 +28,25 @@
 ## 📊 Competitive Programming Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushSingh&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSingh&layout=compact&theme=radical" alt="Top Langs" width="48%" />
 
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Piyush_Coding910&theme=dark" alt="LeetCode Stats" width="48%" />
+
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PiyushSingh" alt="CodeForces Stats" width="48%" />
+
+  <br/>
+
+  <img src="https://codechef-api.vercel.app/piyushsingh50105" alt="CodeChef Stats" width="400" />
+
+</div>
+
+---
+
+## 🛠️ Updated GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushVIT346&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushVIT346&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</div>
   <br/>
 
   <a href="https://codeforces.com/profile/piyush.23bai10346">
