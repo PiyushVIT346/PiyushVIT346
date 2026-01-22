@@ -29,9 +29,9 @@
 
 <div align="center">
 
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Piyush_Coding910&theme=dark" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=piyush.23bai10346&theme=dark" alt="LeetCode Stats" width="48%" />
 
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PiyushSingh" alt="CodeForces Stats" width="48%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=piyush.23bai10346" alt="CodeForces Stats" width="48%" />
 
   <br/>
 
