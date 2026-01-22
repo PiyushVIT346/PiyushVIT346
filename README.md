@@ -44,6 +44,45 @@
 
 
 ---
+## 🏆 Coding Dashboards
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🍎 LeetCode Profile</h3>
+      <a href="https://leetcode.com/u/Piyush_Coding910">
+        <img src="https://leetcard.jacoblin.cool/Piyush_Coding910?theme=dark&font=Roboto" width="100%" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>👨‍🍳 CodeChef Stats</h3>
+      <a href="https://www.codechef.com/users/piyush_50105">
+        <img src="https://codechef-api.vercel.app/piyush_50105" width="100%" alt="CodeChef Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h3>📊 CodeForces Progress</h3>
+  <a href="https://codeforces.com/profile/piyush.23bai10346">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=piyush.23bai10346&theme=radical" width="70%" alt="CodeForces Stats" />
+  </a>
+</div>
+
+---
+
+## 🎯 HackerRank 
+<div align="center">
+  <a href="https://www.hackerrank.com/piyushsingh50105">
+    <img src="https://hackerrank-stats.vercel.app/api?username=piyushsingh50105&theme=dark" width="70%" alt="HackerRank Stats" />
+  </a>
+</div>
+
+---
+
 
 ## 🛠️ Updated GitHub Stats
 <div align="center">
