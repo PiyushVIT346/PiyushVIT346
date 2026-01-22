@@ -30,11 +30,10 @@
 <div align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=piyush.23bai10346" alt="CodeForces Stats" width="48%" />
   <br/>
-  <img src="https://codechef-api.vercel.app/piyush_50105" alt="CodeChef Stats" width="400" />
+  
 </div>
 
-## *LeetCode*
-[![Leetcode](https://img.shields.io/badge/Leetcode-d35400?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Piyush_Coding910)
+
  
 ## *HackerRank*
   [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/piyushsingh50105)
@@ -48,7 +47,7 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <h3>🍎 LeetCode Profile</h3>
+      <h3> LeetCode Profile</h3>
       <a href="https://leetcode.com/u/Piyush_Coding910">
         <img src="https://leetcard.jacoblin.cool/Piyush_Coding910?theme=dark&font=Roboto" width="100%" alt="LeetCode Stats" />
       </a>
@@ -63,16 +62,6 @@
 </table>
 
 <br/>
-
-<div align="center">
-  <h3>📊 CodeForces & GitHub Stats</h3>
-  <a href="https://codeforces.com/profile/piyush.23bai10346">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=piyush.23bai10346&theme=radical" width="48%" alt="CodeForces Stats" />
-  </a>
-  <a href="https://github.com/PiyushVIT346">
-    <img src="https://github-readme-stats.vercel.app/api?username=PiyushVIT346&show_icons=true&theme=radical&rank_icon=github" width="48%" alt="GitHub Stats" />
-  </a>
-</div>
 ---
 
 ## 🎯 HackerRank 
@@ -83,7 +72,8 @@
 </div>
 
 ---
-
+## *LeetCode*
+[![Leetcode](https://img.shields.io/badge/Leetcode-d35400?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Piyush_Coding910)
 
 ## 🛠️ Updated GitHub Stats
 <div align="center">
