@@ -28,21 +28,19 @@
 ## 📊 Competitive Programming Stats
 
 <div align="center">
-
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Piyush_Coding910&theme=dark" alt="LeetCode Stats" width="48%" />
-
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=piyush.23bai10346" alt="CodeForces Stats" width="48%" />
-
   <br/>
-
   <img src="https://codechef-api.vercel.app/piyush_50105" alt="CodeChef Stats" width="400" />
+</div>
 
-  ## *HackerRank*
+## *LeetCode*
+[![Leetcode](https://img.shields.io/badge/Leetcode-d35400?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Piyush_Coding910)
+ 
+## *HackerRank*
   [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/piyushsingh50105)
 
 ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=piyushsingh50105)
 
-</div>
 
 
 ---
