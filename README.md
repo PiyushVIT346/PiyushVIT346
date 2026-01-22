@@ -43,7 +43,6 @@
 
 
 
----
 ## 🏆 Coding Dashboards
 
 <table border="0">
@@ -66,12 +65,14 @@
 <br/>
 
 <div align="center">
-  <h3>📊 CodeForces Progress</h3>
+  <h3>📊 CodeForces & GitHub Stats</h3>
   <a href="https://codeforces.com/profile/piyush.23bai10346">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=piyush.23bai10346&theme=radical" width="70%" alt="CodeForces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=piyush.23bai10346&theme=radical" width="48%" alt="CodeForces Stats" />
+  </a>
+  <a href="https://github.com/PiyushVIT346">
+    <img src="https://github-readme-stats.vercel.app/api?username=PiyushVIT346&show_icons=true&theme=radical&rank_icon=github" width="48%" alt="GitHub Stats" />
   </a>
 </div>
-
 ---
 
 ## 🎯 HackerRank 
